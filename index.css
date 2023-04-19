@@ -114,8 +114,8 @@ p {
 
 .cam {
     margin: 5px;
-    width: 310px;
-    height: 300px;
+    width: 40%;
+    height: auto;
     border-radius: 8px;
 }
 
